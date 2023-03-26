@@ -1,0 +1,9 @@
+using System;
+
+public class Class2
+{
+	public Class1()
+	{
+		global::System.Console.WriteLine("Test");
+	}
+}
